@@ -1,0 +1,8 @@
+/Users/celilcecen/Projects/CodeGenerateor/CodeGenerateor/obj/Debug/net7.0/CodeGenerateor.csproj.AssemblyReference.cache
+/Users/celilcecen/Projects/CodeGenerateor/CodeGenerateor/obj/Debug/net7.0/CodeGenerateor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celilcecen/Projects/CodeGenerateor/CodeGenerateor/obj/Debug/net7.0/CodeGenerateor.AssemblyInfoInputs.cache
+/Users/celilcecen/Projects/CodeGenerateor/CodeGenerateor/obj/Debug/net7.0/CodeGenerateor.AssemblyInfo.cs
+/Users/celilcecen/Projects/CodeGenerateor/CodeGenerateor/obj/Debug/net7.0/CodeGenerateor.csproj.CoreCompileInputs.cache
+/Users/celilcecen/Projects/CodeGenerateor/CodeGenerateor/obj/Debug/net7.0/CodeGenerateor.MvcApplicationPartsAssemblyInfo.cache
+/Users/celilcecen/Projects/CodeGenerateor/CodeGenerateor/obj/Debug/net7.0/CodeGenerateor.RazorAssemblyInfo.cache
+/Users/celilcecen/Projects/CodeGenerateor/CodeGenerateor/obj/Debug/net7.0/CodeGenerateor.RazorAssemblyInfo.cs
